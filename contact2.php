@@ -83,10 +83,10 @@
 
         <h3>Pastor</h3>
         
-        <p>Nombre: Arturo Hernandez</p>
-        <p>Direccion: 18400 Lockwood Rd Manor, Texas</p>
+        <p>Nombre: Javier Ruiz</p>
+        <p>Direccion: 8711 Burnet Rd Austin, Texas</p>
         <p>Email: N/A</p>
-        <p>Telefono: 512-913-8295</p>
+        <p>Telefono: 512-825-3472</p>
     </div><!-- end class col-sm-6 -->
 
     <div class="col-sm-6">

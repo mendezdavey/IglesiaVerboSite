@@ -1,0 +1,44 @@
+/*
+* Custom CSS for Iglesia Verbo Website
+* style.css
+* by David Mendez
+*/
+#about{
+	margin-top: 50px;
+}
+.green-background{
+	background: #006400;
+	color: #eee;
+	margin-top: 30px;
+	padding: 0;
+}
+.white-background{
+	margin:0;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+.full-width{
+	height: 300px; 
+	overflow: hidden;
+}
+.full-width img{
+	width: 100%;
+}
+.gray-background{
+	background: #eee;
+	padding-bottom: 12px;
+}
+.footer-background{
+	background: #006400;
+	color: #eee;
+}
+footer{	
+	background: #ccc;
+	margin: 0;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+.unstyled{
+	list-style: none;
+	padding: 0;
+}

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Contáctenos | Iglesia Cristiana Verbo</title>
+    <title>Contáctenos | Iglesia Verbo Norte - (512) 825-3472 Iglesia Cristiana</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -25,16 +25,18 @@
 
 </head>
 <body>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-83727251-1', 'auto');
-  ga('send', 'pageview');
+      ga('create', 'UA-83727251-1', 'auto');
+      ga('send', 'pageview');
 
-</script>
+    </script>
+    <!-- end Google Analytics -->
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
@@ -72,8 +74,8 @@
     <!-- adding full-width background color to h1 tags -->
     <div class="green-background">
       <div class="container">
-        <h1>Contactanos</h1>
-        <p>Contacta a la Iglesia VERBO Austin, Tx</p>
+        <h1>Contáctanos</h1>
+        <p>Contáctanos a la Iglesia VERBO Norte, Austin, Texas 78757</p>
       </div>
     </div>
     <!-- adding full-width picture for website -->
@@ -83,7 +85,7 @@
 <div class="container">
 <div class="row">
     <div class="col-sm-6">
-        <h1>Contactanos</h1>
+        <h1>Contáctanos</h1>
         <p>La palabra del senor dice: Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no conoces. Jeremías 33:3. El Senor es el mejor punto de contacto para salvacion. Si quieres congregarte con nosotros hablanos o llena el formulario.</p>
         <h3>El Padre</h3>
         <p>Nombre: יהוה </p>
@@ -91,9 +93,8 @@
         <p>Forma de Contacto: Orando en el nombre de Jesucristo</p>
 
         <h3>Pastor</h3>
-        
         <p>Nombre: Javier Ruiz</p>
-        <p>Direccion: 8711 Burnet Rd Austin, Texas</p>
+        <p>Direccion: 8711 Burnet Rd, Suite H-101, Austin, Texas 78757</p>
         <p>Email: N/A</p>
         <p>Telefono: 512-825-3472</p>
     </div><!-- end class col-sm-6 -->
@@ -196,8 +197,6 @@
         </form>
         <br>
 
-        <?php } ?>
-
         
     </div><!-- end class 2col-sm-6 -->
 </div><!-- end of class row -->
@@ -213,23 +212,18 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.3541092638056!2d-97.72888848537204!3d30.369301110108925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb9617e5cdb9%3A0x28d6ab215d2fae66!2s8711+Burnet+Rd%2C+Austin%2C+TX+78757!5e0!3m2!1sen!2sus!4v1473084683818" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div><!-- end col-sm-6 -->
             <div class="col-sm-6">
-              <h2>
-                        <strong>Servicios</strong>
-                      <hr>
-                      </h2>
+              <h2><strong>Servicios</strong><hr></h2>
                       <em>Domingo</em><br>
-                      10:00am - 12:00pm (<em>primer servicio</em>) <br>
+                      10:00am - 10:30am (<em>Oracion</em>)<br>
+                      10:30am - 1:00pm (<em>primer servicio</em>) <br>
                       <br>
                       <em>Miercoles</em><br>
-                      7:00pm - 9:00pm<br><br>
+                      7:00pm - 9:00pm (<em>Estudio Biblico</em>)<br><br>
                       <em>Viernes</em><br>
                       7:00pm - 9:00pm<br><br>
-
                       <em>Lunes, Martes, Jueves, Sabado</em><br>
                       Cerrado<br><br>
-
               <?php include('includes/store-hours.php'); ?>
-
             </div><!-- end col-sm-6 -->
           </div><!-- end class row -->
 

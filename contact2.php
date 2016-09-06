@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Contáctenos | Iglesia Verbo Norte - (512) 825-3472 Iglesia Cristiana</title>
+    <title>Contáctenos | Verbo Norte Suite H101 - (512) 825-3472 Iglesia Cristiana</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -75,7 +75,7 @@
     <div class="green-background">
       <div class="container">
         <h1>Contáctanos</h1>
-        <p>Contáctanos a la Iglesia VERBO Norte, Austin, Texas 78757</p>
+        <p>Verbo Norte Suite H101, Austin, Texas 78757</p>
       </div>
     </div>
     <!-- adding full-width picture for website -->
@@ -196,7 +196,7 @@
         </fieldset>
         </form>
         <br>
-
+        <?php } ?>
         
     </div><!-- end class 2col-sm-6 -->
 </div><!-- end of class row -->
@@ -218,9 +218,9 @@
                       10:30am - 1:00pm (<em>primer servicio</em>) <br>
                       <br>
                       <em>Miercoles</em><br>
-                      7:00pm - 9:00pm (<em>Estudio Biblico</em>)<br><br>
+                      8:00pm - 9:00pm (<em>Estudio Biblico</em>)<br><br>
                       <em>Viernes</em><br>
-                      7:00pm - 9:00pm<br><br>
+                      8:00pm - 9:00pm<br><br>
                       <em>Lunes, Martes, Jueves, Sabado</em><br>
                       Cerrado<br><br>
               <?php include('includes/store-hours.php'); ?>

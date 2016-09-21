@@ -3,7 +3,9 @@
 * style.css
 * by David Mendez
 */
-
+.quote{
+	font-style: italic;
+}
 #slide1 {
 	background-image:url('../slider/austintexas-768.jpg');	
     width: 100%;
